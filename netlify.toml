@@ -1,0 +1,7 @@
+[build]
+  publish = "src/main/resources/templates"
+
+[[redirects]]
+  from = "/"
+  to = "/dashboard.html"
+  status = 200
